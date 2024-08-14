@@ -1,9 +1,10 @@
 {
   "name": "extend-window-listener",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "extend window addEventListener",
   "main": "lib/bundle.cjs.js",
   "module": "lib/bundle.esm.js",
+  "types": "types/index.d.ts",
   "scripts": {
     "build": "rollup -c",
     "build:type": "tsc -p ./tsconfig.type.json",
