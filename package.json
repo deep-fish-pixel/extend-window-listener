@@ -1,6 +1,6 @@
 {
   "name": "extend-window-listener",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "extend window addEventListener",
   "main": "lib/bundle.cjs.js",
   "module": "lib/bundle.esm.js",

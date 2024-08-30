@@ -1,4 +1,4 @@
-# use-leave-confirm
+# extend-window-listener
 
 扩展window.addEventListener，增加异步和打断机制
 
